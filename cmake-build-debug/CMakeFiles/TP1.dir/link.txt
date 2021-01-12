@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TP1.dir/npm.cpp.o  -o TP1 

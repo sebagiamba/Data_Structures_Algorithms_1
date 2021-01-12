@@ -1,0 +1,16 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Sebastian/Desktop/Seba/UBA/Algoritmos y Estructuras de Datos III/TP1"
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Enunciado.pdf
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: TP1
+CMake Error: Cannot determine link language for target "TP1".
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Sebastian/Desktop/Seba/UBA/Algoritmos y Estructuras de Datos III/TP1/cmake-build-debug
+Unable to determine product file path for target TP1. Running and debugging will be unavailable.

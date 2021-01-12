@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Sebastian/Desktop/Seba/UBA/Algoritmos y Estructuras de Datos III/TP1/npm.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+chrono
+-
+set
+-
+map
+-
+
