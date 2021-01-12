@@ -1,3 +1,3 @@
 # AEDIII_TP1
 
-Probar usando: cat instancia1.txt | ./npm FB
+Compile npm.cpp and run cat instancia1.txt | ./npm FB
